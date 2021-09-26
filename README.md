@@ -1,2 +1,2 @@
 # Beer Service Microservice
-# It is using java11
+Spring Boot Microservice Example
